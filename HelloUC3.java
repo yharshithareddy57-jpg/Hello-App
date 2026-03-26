@@ -1,4 +1,4 @@
-public class Hello {
+public class HelloUC3 {
     public static void main(String[] args) {
         String name = "World";
         if (args.length > 0) {
